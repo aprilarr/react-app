@@ -1,0 +1,33 @@
+.youtube-wraper{
+    border: 1px solid grey;
+    display: inline-block;
+    padding: 10px;
+}
+
+.img-thumb {
+    width: 100px;
+    height: 118px;
+    overflow: hidden;
+    position: relative;
+}
+
+p.time {
+    position: absolute;
+    color: blue;
+    bottom: 6px;
+    margin: 0;
+    background: black;
+    padding: 4px;
+    border-radius: 4px;
+    font-size: 12px;
+    font-weight: 500;
+}
+
+p.title{
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin: 0;
+    margin-top: 10px;
+    color: black;
+}
